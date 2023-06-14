@@ -9,7 +9,7 @@ export const HeaderStyled = styled.div`
   justify-content: space-around;
   align-items: center;
   padding: 10px 0;
-  font-size: 20px;
+  font-size: 22px;
   color: #ffffff;
   background-color: #4d4e6d;
 `;
