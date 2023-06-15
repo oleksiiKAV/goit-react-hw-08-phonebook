@@ -7,6 +7,8 @@ const initialState = {
   filter: '',
   isLoading: false,
   error: null,
+  name:'',
+  number:'',
 };
 
 const contactsSlice = createSlice({
